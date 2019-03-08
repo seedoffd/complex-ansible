@@ -1,0 +1,5 @@
+ge: "ami-02a39bdb8e8ee056a"
+instance_type: "t2.micro"
+vpc_subnet_id: "subnet-31ef9a79"
+key_name: "ansible"
+region: "eu-west-1"
